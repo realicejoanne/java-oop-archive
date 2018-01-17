@@ -1,0 +1,4 @@
+Author:
+Raditya Prirahmadian (140810160009) : Soal B + class Tumbuhan
+Syafira Fitra Annisa (140810160047) : UML + class Monokotil + class Dikotil
+Patricia Joanne (140810160065) : Soal A + class TesTumbuhan
