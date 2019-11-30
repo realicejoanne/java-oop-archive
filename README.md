@@ -18,14 +18,14 @@ Compile the program:
 ```
 
 In Object Oriented Programming, there are several subtopics I learned:
-1. Introduction,
-2. Control Structure,
-3. Array and String,
-4. Object Oriented Programming Basic,
-5. Inheritance,
-6. Overloading, Overriding, Polymorphism,
-7. Nested Class, Wrapper Class, Enum,
-8. Exception,
-9. Collection (Set, List, Map),
-10. Comparable and Comparator, and
-11. Generics.
+1. Introduction
+2. Control Structure
+3. Array and String
+4. Object Oriented Programming Basic
+5. Inheritance
+6. Overloading, Overriding, Polymorphism
+7. Nested Class, Wrapper Class, Enum
+8. Exception
+9. Collection (Set, List, Map)
+10. Comparable and Comparator
+11. Generics
