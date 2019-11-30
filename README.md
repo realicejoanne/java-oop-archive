@@ -11,9 +11,11 @@ Make the program:
 Compile the program:
 1. Open CMD
 2. Type:
-- cd <file_location>
-- javac test1.java (can be replaced with your own file name)
-- java test1
+```
+> cd <file_location>
+> javac test1.java (can be replaced with your own file name)
+> java test1
+```
 
 In Object Oriented Programming, there are several subtopics I learned:
 1. Introduction,
